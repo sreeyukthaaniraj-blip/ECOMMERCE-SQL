@@ -1,0 +1,47 @@
+customer_id,customer_name,gender,city,state
+AA-10480,"Sean O'Donnell",male,"Fort Lauderdale",Florida
+AG-10270,"Brosina Hoffman",male,"Los Angeles",California
+BH-11710,"Sean O'Donnell",male,"Fort Lauderdale",Florida
+BS-11590,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+CG-12520,"Claire Gute",male,Henderson,Kentucky
+CS-12400,"Steve Nguyen",female,Houston,Texas
+DN-13690,"Gene Hale",female,Richardson,Texas
+DP-13000,"Emily Burns",male,Orem,Utah
+DV-13045,"Claire Gute",male,Henderson,Kentucky
+EB-13870,"Andrew Allen",male,Concord,"North Carolina"
+EH-13945,"Irene Maddox",male,Seattle,Washington
+ER-13855,"Odella Nelson",female,Eagan,Minnesota
+ES-14080,"Zuschuss Donatelli",male,"San Francisco",California
+GH-14485,"Pete Kriz",male,Madison,Wisconsin
+GM-14455,"Steve Nguyen",female,Houston,Texas
+HM-14980,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+HP-14815,"Brosina Hoffman",male,"Los Angeles",California
+IM-15070,"Brosina Hoffman",male,"Los Angeles",California
+JC-16105,"Gene Hale",female,Richardson,Texas
+JE-15745,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+JM-15265,"Eric Hoffmann",male,"Los Angeles",California
+JS-15685,"Steve Nguyen",female,Houston,Texas
+KB-16315,"Linda Cazamias",female,Naperville,Illinois
+KB-16585,"Brosina Hoffman",male,"Los Angeles",California
+KB-16600,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+KD-16270,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+KD-16345,"Odella Nelson",female,Eagan,Minnesota
+KM-16720,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+LC-16930,"Zuschuss Donatelli",male,"San Francisco",California
+LH-16900,"Sandra Flanagan",male,Philadelphia,Pennsylvania
+MA-17560,"Harold Pawlan",female,"Fort Worth",Texas
+ON-18715,"Ken Black",female,Fremont,Nebraska
+PG-18895,"Steve Nguyen",female,Houston,Texas
+PK-19075,"Brosina Hoffman",male,"Los Angeles",California
+PN-18775,"Erin Smith",female,Melbourne,Florida
+PO-18865,"Ken Black",female,Fremont,Nebraska
+PS-18970,"Tracy Blumstein",male,Philadelphia,Pennsylvania
+RA-19885,"Zuschuss Donatelli",male,"San Francisco",California
+RB-19705,"Ruben Ausman",female,"Los Angeles",California
+SC-20770,"Matt Abelman",female,Houston,Texas
+SF-20065,"Brosina Hoffman",male,"Los Angeles",California
+SN-20710,"Alejandro Grove",male,"West Jordan",Utah
+SO-20335,"Darrin Van Huff",female,"Los Angeles",California
+TB-21055,"Eric Hoffmann",male,"Los Angeles",California
+TB-21520,"Harold Pawlan",female,"Fort Worth",Texas
+ZD-21925,"Brosina Hoffman",male,"Los Angeles",California
